@@ -36,7 +36,7 @@ The system eliminates redundant footage and efficiently highlights important eve
 Each module is reusable, independent, and scalable.
 
 ## Project Architecture
-![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/project-arc.jpg)
+![App Screenshot](assets/project-arc.png)
 
 ## Folder Structure
 ```
@@ -113,14 +113,14 @@ results/{video-name}/
 
 _Graph showing percentage of changed pixels over time: (observation for one video)_
 
-![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/pixel-diff.jpg)
+![App Screenshot](assets/pixel-diff.png)
 
 
 **Object Detection Results**
 
 _Annotated frames with bounding boxes:_
 
-![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/obj-det.jpg)
+![App Screenshot](assets/obj-det.jpg)
 
 **Comparision**
 
@@ -169,3 +169,4 @@ This project demonstrates an efficient and scalable approach to CCTV video summa
 - L. Goel, "CCTV Footage Summarization for Increasing Efficiency in Surveillance (using ML)", International Journal of Innovative Science and Research Technology
 
 - Ultralytics, ”YOLOv8: A State-of-the-Art Object Detection Model,” 2023. [Online]. Available: https://docs.ultralytics.com/
+
