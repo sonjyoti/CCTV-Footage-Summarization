@@ -36,7 +36,7 @@ The system eliminates redundant footage and efficiently highlights important eve
 Each module is reusable, independent, and scalable.
 
 ## Project Architecture
-![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/project-arc)
+![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/project-arc.jpg)
 
 ## Folder Structure
 ```
@@ -113,14 +113,14 @@ results/{video-name}/
 
 _Graph showing percentage of changed pixels over time: (observation for one video)_
 
-![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/pixel-diff)
+![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/pixel-diff.jpg)
 
 
 **Object Detection Results**
 
 _Annotated frames with bounding boxes:_
 
-![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/obj-det)
+![App Screenshot](https://github.com/sonjyoti/CCTV-Footage-Summarization/assets/obj-det.jpg)
 
 **Comparision**
 
@@ -167,4 +167,5 @@ This project demonstrates an efficient and scalable approach to CCTV video summa
 -  A. B. Deshmukh, V. N. Aher, V. More, R. S. Pol, A. Talele, and A. Ingle, "Memory Efficient Summarization of Real-Time CCTV Surveillance System"
 - Muhammad, K., Hussain, T., & Baik, S. W. "Efficient CNN based summarization of surveillance videos for resource-constrained devices". Intelligent Media Laboratory, Digital Contents Research Institute, Sejong University, Seoul-143-747, Republic of Korea, August 2018.
 - L. Goel, "CCTV Footage Summarization for Increasing Efficiency in Surveillance (using ML)", International Journal of Innovative Science and Research Technology
+
 - Ultralytics, ”YOLOv8: A State-of-the-Art Object Detection Model,” 2023. [Online]. Available: https://docs.ultralytics.com/
